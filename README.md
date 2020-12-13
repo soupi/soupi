@@ -3,7 +3,7 @@
 To find out more about me, visit my website: [gilmi.me](https://gilmi.me),
 and my blog: [gilmi.me/blog](https://gilmi.me/blog).
 
-My GitHub profile mainly focuses on tutorials, learning resources and contributions to other open-source projects.
+My GitHub profile mainly focuses on tutorials, learning resources and contribution to other open-source projects.
 
 If you are interested in my projects, you might want to check my GitLab profile instead: [gitlab.com/gilmi](https://gitlab.com/gilmi).
 
