@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Gil
 
-My GitHub profile mainly focuses on tutorials, learning resources and contribution to other open-source projects, especially around the Haskell programming language.
+My GitHub profile mainly focuses on tutorials, example projects, learning resources and contribution to other open-source projects, especially around the Haskell programming language.
 
 If you are interested in my projects, you might want to check my GitLab profile instead: [gitlab.com/gilmi](https://gitlab.com/gilmi).
 
