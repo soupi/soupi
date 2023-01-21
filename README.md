@@ -1,11 +1,13 @@
 ### Hi there 👋 I'm Gil
 
-My GitHub profile mainly focuses on tutorials, example projects, learning resources and contribution to other open-source projects, especially around the Haskell programming language.
+My GitHub profile mainly focuses on tutorials, learning resources, example projects, contribution to other open-source projects, and a lot of [Haskell](https://haskell.org).
 
-If you are interested in my projects, you might want to check my GitLab profile instead: [gitlab.com/gilmi](https://gitlab.com/gilmi).
+If you are interested in my personal software projects,
+you might want to check my Gitea instance ([vcs.gilmi.me/suppi](https://vcs.gilmi.me/suppi)) or Gitlab profile ([gitlab.com/gilmi](https://gitlab.com/gilmi)) instead.
 
-- 💬 Ask me about: Haskell
-- 📫 How to reach me: twitter or email, see my website for my contact details 😊
+- 💬 Ask me about: Haskell /
+  [📖 Learn Haskell by building a blog generator](https://lhbg-book.link)
+- 📫 How to reach me: mastodon or email, see my website for my contact details 📨
 
 To find out more about me, visit my website: [gilmi.me](https://gilmi.me),
 and my blog: [gilmi.me/blog](https://gilmi.me/blog).
