@@ -6,7 +6,7 @@ If you are interested in my personal software projects,
 you might want to check my Gitea instance ([vcs.gilmi.me/suppi](https://vcs.gilmi.me/suppi)) or Gitlab profile ([gitlab.com/gilmi](https://gitlab.com/gilmi)) instead.
 
 - 💬 Ask me about: Haskell /
-  [📖 Learn Haskell by building a blog generator](https://lhbg-book.link)
+  [📖 Learn Haskell by building a blog generator](https://learn-haskell.blog)
 - 📫 How to reach me: mastodon or email, see my website for my contact details 📨
 
 To find out more about me, visit my website: [gilmi.me](https://gilmi.me),
